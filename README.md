@@ -9,3 +9,6 @@ https://dgreenheck.github.io/threejs-gltf-import/
 ## Tutorial
 
 Check out the [step-by-step tutorial](https://youtu.be/aOQuuotM-Ww) on my YouTube channel!
+
+## 3D MODELS
+https://sketchfab.com/3d-models
